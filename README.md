@@ -1,3 +1,3 @@
 # discordBot
 
-Dicord for my communities on Discord to try out RPG features and play music.
+Dicord Bot for my communities on Discord to try out RPG features and play music.
